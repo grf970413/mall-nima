@@ -1,0 +1,11 @@
+
+Qjavascript:S1481–"5Remove the declaration of the unused 'that' variable.(íÞ™.
+Njavascript:S1854–"2Remove this useless assignment to variable "that".(íÞ™.
+Xjavascript:S1481™"6Remove the declaration of the unused 'index' variable.( ­ÄÑÿÿÿÿÿ
+Ujavascript:S1854™"3Remove this useless assignment to variable "index".( ­ÄÑÿÿÿÿÿ
+]javascript:S1126Þ"AReplace this if-then-else statement by a single return statement.(Âß
+]javascript:S1481›"ARemove the declaration of the unused 'checkedSpecPrice' variable.(ÓÕéW
+Zjavascript:S1854›">Remove this useless assignment to variable "checkedSpecPrice".(ÓÕéW
+cjavascript:S1126­"AReplace this if-then-else statement by a single return statement.(“ªÁÆüÿÿÿÿ
+Ojavascript:S1481Œ"3Remove the declaration of the unused 'id' variable.(ùæ¿
+Ljavascript:S1854Œ"0Remove this useless assignment to variable "id".(ùæ¿
